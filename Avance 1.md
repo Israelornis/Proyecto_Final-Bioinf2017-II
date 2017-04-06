@@ -2,7 +2,7 @@
 
 ### Avances 1
 
-** Tipo de datos:** Datos genómicos (RADseq) de *Dipodomys merriami* y *D. deserti* de Jezckova et al. 2015 disponibles en Dryad
+** Tipo de datos: ** Datos genómicos (RADseq) de *Dipodomys merriami* y *D. deserti* de Jezckova et al. 2015 disponibles en Dryad
 
 Jezkova T, Riddle BR, Card DC, Schield DR, Eckstut ME, Castoe TA (2015) Genetic consequences of post-glacial range expansion in two codistributed rodents (genus Dipodomys) depend on ecology and genetic locus. Molecular Ecology 24(1): 83-97. http://dx.doi.org/10.1111/mec.13012
 
