@@ -13,7 +13,7 @@
 |Gráficar FST, Pi, He comparando pob. Nte vs Sur| <span style="color:red"> **Pendiente**</span> |
 |FastStructure c/specie|<span style="color:red"> **Pendiente**</span> |
 |Organizar repositorio|<span style="color:red"> **Pendiente**</span> |
-|(README)[https://github.com/madisson-luna/Proyecto_Final-Bioinf2017-II/blob/master/README.md] | <span style="color:red"> **Pendiente**</span> |
+|[README](https://github.com/madisson-luna/Proyecto_Final-Bioinf2017-II/blob/master/README.md) | <span style="color:red"> **Pendiente**</span> |
 
 
 **Artículos leidos**
