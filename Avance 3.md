@@ -5,24 +5,15 @@
 ## Diario de trabajo ##
 
 | Pasos por hacer | Estado |
-
 |----------------------|----------|
-
 |Descargar datos del repositorio dryad | <span style="color:green"> **Listo**</span> |
-
 |Montar un volumen en docker para analizar los datos | <span style="color:green"> **Listo**</span> |
-
 |Instalar Stacks| <span style="color:green"> **Listo**</span> |
-
 |Extraer SNPs con Stacks "ref_map.pl "populations" | <span style="color:green"> **Listo**</span> |
-
 |Gráficar FST, Pi, He comparando pob. Nte vs Sur| <span style="color:red"> **Pendiente**</span> |
-
 |FastStructure c/specie|<span style="color:red"> **Pendiente**</span> |
-
 |Organizar repositorio|<span style="color:red"> **Pendiente**</span> |
-
-|(README)[https://github.com/madisson-luna/Proyecto_Final-Bioinf2017-II/blob/master/README.md)| <span style="color:red"> **Pendiente**</span> |
+|(README)[https://github.com/madisson-luna/Proyecto_Final-Bioinf2017-II/blob/master/README.md] | <span style="color:red"> **Pendiente**</span> |
 
 
 **Artículos leidos**
