@@ -10,6 +10,8 @@
 |Montar un volumen en docker para analizar los datos | <span style="color:green"> **Listo**</span> |
 |Instalar Stacks| <span style="color:green"> **Listo**</span> |
 |Extraer SNPs con Stacks "ref_map.pl "populations" | <span style="color:green"> **Listo**</span> |
+|Convertir vcf a STRUCTURE(fastStructure) | <span style="color:green"> **Listo**</span> |
+|Hacer un PCA con SNPRelate | <span style="color:green"> **Listo**</span> |
 |Gráficar FST, Pi, He comparando pob. Nte vs Sur| <span style="color:red"> **Pendiente**</span> |
 |FastStructure c/specie|<span style="color:red"> **Pendiente**</span> |
 |Organizar repositorio|<span style="color:red"> **Pendiente**</span> |
@@ -25,6 +27,7 @@
 * Mastreta-Yanes et al. 2014. Restriction site-associated DNA sequencing, genotyping error estimation and de novo assembly optimization for population genetic inference.
 * Raj A., Stephens M., Pritchard J. K., 2014 fastSTRUCTURE: variational inference of population structure in large SNP data sets. Genetics 197: 573–589.
 * Reyes-Galindo, V. 2016. Genómica de poblaciones de *Juniperus blancoi* y *J. monticola*: diversidad genética y variación altitudinal. Tesis de Licenciatura. 
+* Zheng, X. 2015. Tutorials for the R/Bioconductor Package SNPRelate.
  
 
 
