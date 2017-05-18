@@ -4,7 +4,7 @@
 Por Madisson Azucena Luna Bárcenas 
 __________
 
-Este repositorio contiene datos tomados RADseq pre-procesados y mapeados en formato .bam de *Dipodomys merriami* y *D. deserti*, tomados de Jezckova et al. 2015 disponibles en Dryad ("Jezkova_2014_Dipodomys_Mapped_Reads.tar.bz2") y un análisis de Genética de poblacionesde los mismos
+Este repositorio contiene datos tomados RADseq pre-procesados y mapeados en formato .bam de *Dipodomys merriami* y *D. deserti*, tomados de Jezckova et al. 2015<sup>1 2</sup> disponibles en Dryad ("Jezkova_2014_Dipodomys_Mapped_Reads.tar.bz2") y un análisis de Genética de poblacionesde los mismos
 
 En la carpeta **bin** se encuentran los scripts para:
  
@@ -23,7 +23,7 @@ En la carpeta **data** se encuentra:
 ____
 **Bibliografia**
 
-Jezkova T, Riddle BR, Card DC, Schield DR, Eckstut ME, Castoe TA (2015) Genetic consequences of post-glacial range expansion in two codistributed rodents (genus Dipodomys) depend on ecology and genetic locus. Molecular Ecology 24(1): 83-97. http://dx.doi.org/10.1111/mec.13012
+<sup>1</sup>Jezkova T, Riddle BR, Card DC, Schield DR, Eckstut ME, Castoe TA (2015) Genetic consequences of post-glacial range expansion in two codistributed rodents (genus Dipodomys) depend on ecology and genetic locus. Molecular Ecology 24(1): 83-97. http://dx.doi.org/10.1111/mec.13012
 
-Jezkova T, Riddle BR, Card DC, Schield DR, Eckstut ME, Castoe TA (2014) Data from: Genetic consequences of post-glacial range expansion in two codistributed rodents (genus Dipodomys) depend on ecology and genetic locus. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.1nv6k
+<sup>2</sup>Jezkova T, Riddle BR, Card DC, Schield DR, Eckstut ME, Castoe TA (2014) Data from: Genetic consequences of post-glacial range expansion in two codistributed rodents (genus Dipodomys) depend on ecology and genetic locus. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.1nv6k
 ___
